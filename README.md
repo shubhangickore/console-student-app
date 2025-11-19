@@ -20,7 +20,7 @@ https://drive.google.com/drive/u/0/mobile/folders/1XN5CTt_HtA92mu17fhOYlV56Exi8J
 
 ## 📂 How to Run
 
-1. Make sure you have **Java installed**.
+1. Make sure you have **Java installed.**
 2. Clone the repository:
    ```bash
    git clone https://github.com/your-username/student-management-system.git
